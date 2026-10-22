@@ -1,0 +1,62 @@
+id,phase,team_a,team_b,score_a,score_b,best_of,source_url
+groups-01,groups,LEVIATÁN,FURIA,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-02,groups,Sentinels,Cloud9,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-03,groups,ENVY,Evil Geniuses,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-04,groups,KRÜ Esports,LOUD,1,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-05,groups,G2 Esports,100 Thieves,1,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-06,groups,NRG,MIBR,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-07,groups,Evil Geniuses,LEVIATÁN,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-08,groups,ENVY,MIBR,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-09,groups,FURIA,NRG,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-10,groups,100 Thieves,KRÜ Esports,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-11,groups,G2 Esports,Cloud9,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-12,groups,Sentinels,LOUD,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-13,groups,ENVY,LEVIATÁN,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-14,groups,FURIA,MIBR,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-15,groups,KRÜ Esports,G2 Esports,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-16,groups,100 Thieves,Sentinels,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-17,groups,Cloud9,LOUD,1,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-18,groups,Evil Geniuses,MIBR,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-19,groups,ENVY,FURIA,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-20,groups,LEVIATÁN,NRG,1,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-21,groups,Cloud9,KRÜ Esports,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-22,groups,G2 Esports,Sentinels,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-23,groups,Evil Geniuses,FURIA,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-24,groups,ENVY,NRG,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-25,groups,100 Thieves,Cloud9,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-26,groups,G2 Esports,LOUD,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-27,groups,KRÜ Esports,Sentinels,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-28,groups,LEVIATÁN,MIBR,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-29,groups,Evil Geniuses,NRG,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+groups-30,groups,LOUD,100 Thieves,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5781
+playins-01,playins,KRÜ Esports,BESTIA,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-02,playins,ENVY,M80,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-03,playins,FURIA,2Game Esports,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-04,playins,Cloud9,Fluxo W7M,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-05,playins,MIBR,KRÜ Esports,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-06,playins,Sentinels,ENVY,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-07,playins,G2 Esports,FURIA,1,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-08,playins,Evil Geniuses,Cloud9,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-09,playins,Cloud9,BESTIA,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-10,playins,G2 Esports,M80,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-11,playins,Sentinels,2Game Esports,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-12,playins,KRÜ Esports,Fluxo W7M,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-13,playins,MIBR,ENVY,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-14,playins,FURIA,Evil Geniuses,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-15,playins,BESTIA,G2 Esports,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-16,playins,Sentinels,KRÜ Esports,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-17,playins,ENVY,G2 Esports,1,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playins-18,playins,Evil Geniuses,KRÜ Esports,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5780
+playoffs-01,playoffs,LOUD,FURIA,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5779
+playoffs-02,playoffs,LEVIATÁN,MIBR,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5779
+playoffs-03,playoffs,NRG,LOUD,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5779
+playoffs-04,playoffs,100 Thieves,LEVIATÁN,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5779
+playoffs-05,playoffs,FURIA,G2 Esports,1,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5779
+playoffs-06,playoffs,MIBR,Evil Geniuses,2,1,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5779
+playoffs-07,playoffs,LEVIATÁN,G2 Esports,1,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5779
+playoffs-08,playoffs,LOUD,MIBR,2,0,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5779
+playoffs-09,playoffs,NRG,100 Thieves,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5779
+playoffs-10,playoffs,G2 Esports,LOUD,0,2,3,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5779
+playoffs-11,playoffs,NRG,LOUD,2,3,5,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5779
+playoffs-12,playoffs,100 Thieves,LOUD,3,2,5,https://www.vlr.gg/event/matches/2977/vct-2026-americas-stage-2/?group=completed&series_id=5779
+
