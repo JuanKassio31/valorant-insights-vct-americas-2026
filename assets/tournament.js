@@ -11,13 +11,13 @@ function render(){
  $('coverage').textContent=rows.length+' de '+matches.length+' séries';
  $('sweep-caption').textContent=(a.series?pct(100*a.sweeps/a.series):'0%')+' das séries do recorte';
  $('bars').innerHTML=a.ranking.slice(0,8).map(t=>'<div class="bar-row"><div class="bar-label">'+escapeHTML(t.team)+'<small>'+t.played+' séries</small></div><div class="track"><div class="fill" style="width:'+t.win_rate+'%"></div></div><div class="bar-value">'+pct(t.win_rate)+'</div></div>').join('')||'<p>Nenhuma série para os filtros selecionados.</p>';
- $('ranking-body').innerHTML=a.ranking.map(t=>'<tr><td><strong>'+escapeHTML(t.team)+'</strong></td><td>'+t.played+'</td><td class="positive">'+t.wins+'</td><td>'+t.losses+'</td><td>'+pct(t.win_rate)+'</td><td>'+t.maps_won+'–'+t.maps_lost+'</td><td class="'+(t.map_diff>=0?'positive':'negative')+'">'+(t.map_diff>0?'+':'')+t.map_diff+'</td></tr>').join('');
+ $('ranking-body').innerHTML=a.ranking.map(t=>'<tr><td><strong>'+Media.team(t.team)+'</strong></td><td>'+t.played+'</td><td class="positive">'+t.wins+'</td><td>'+t.losses+'</td><td>'+pct(t.win_rate)+'</td><td>'+t.maps_won+'–'+t.maps_lost+'</td><td class="'+(t.map_diff>=0?'positive':'negative')+'">'+(t.map_diff>0?'+':'')+t.map_diff+'</td></tr>').join('');
  const selected=$('team').value,leader=selected?a.ranking.find(t=>t.team===selected):a.ranking[0];
  $('insight-title').textContent=leader?leader.team+' em foco':'Sem confrontos neste recorte';
  $('insight-text').textContent=leader?leader.wins+' vitórias em '+leader.played+' séries ('+pct(leader.win_rate)+'), com '+leader.maps_won+' mapas ganhos e '+leader.maps_lost+' perdidos. '+(selected?'Os dados refletem os filtros selecionados.':'Maior aproveitamento no recorte; não equivale à colocação final oficial.'):'Escolha outra equipe ou fase para explorar a base.';
  const q=$('search').value.trim().toLocaleLowerCase('pt-BR');
  const filtered=rows.filter(m=>(m.team_a+' '+m.team_b).toLocaleLowerCase('pt-BR').includes(q));
- $('match-body').innerHTML=filtered.map(m=>'<tr><td><span class="phase-tag">'+phaseNames[m.phase]+'</span></td><td>'+escapeHTML(m.team_a)+'</td><td class="score">'+m.score_a+' : '+m.score_b+'</td><td>'+escapeHTML(m.team_b)+'</td><td><a href="'+escapeHTML(m.source_url)+'" target="_blank" rel="noopener">VLR.gg ↗</a></td></tr>').join('')||'<tr><td colspan="5">Nenhum resultado encontrado.</td></tr>';
+ $('match-body').innerHTML=filtered.map(m=>'<tr><td><span class="phase-tag">'+phaseNames[m.phase]+'</span></td><td>'+Media.team(m.team_a)+'</td><td class="score">'+m.score_a+' : '+m.score_b+'</td><td>'+Media.team(m.team_b)+'</td><td><a href="'+escapeHTML(m.source_url)+'" target="_blank" rel="noopener">VLR.gg ↗</a></td></tr>').join('')||'<tr><td colspan="5">Nenhum resultado encontrado.</td></tr>';
  $('results-count').textContent=filtered.length+' séries exibidas. A busca afeta apenas esta tabela; os indicadores usam os filtros de fase e equipe.';
 }
 async function init(){try{

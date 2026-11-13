@@ -42,3 +42,8 @@ python scripts/import_players.py /caminho/stats.html
 Revise a quantidade e os dados antes de publicar; respeite os termos e limites da fonte.
 
 Projeto independente, sem afiliação à Riot Games ou ao VLR.gg.
+
+## Identidade visual
+Retratos de 74 jogadores e logos das 16 equipes, verificados nas páginas públicas do VLR.gg em 13/11/2026. Oito perfis sem retrato disponível usam iniciais; falhas de carregamento também recebem essa alternativa. Imagens carregadas sob demanda, com dimensões reservadas para evitar deslocamentos de layout. Arquivos hospedados no CDN da fonte; a disponibilidade depende dele.
+
+`data/media.json` / `data/media.js` guardam URLs e origem de cada imagem, separadas das estatísticas. Fotos atuais podem mostrar uniformes diferentes dos usados no torneio. Marcas e retratos pertencem aos respectivos titulares.

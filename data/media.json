@@ -1,0 +1,443 @@
+{
+  "retrieved_on": "2026-11-13",
+  "players": {
+    "https://www.vlr.gg/player/601/asuna": {
+      "image": "https://owcdn.net/img/69704e530cfac.png",
+      "source": "https://www.vlr.gg/player/601/asuna"
+    },
+    "https://www.vlr.gg/player/37354/basic": {
+      "image": "https://owcdn.net/img/67ae72c12777e.png",
+      "source": "https://www.vlr.gg/player/37354/basic"
+    },
+    "https://www.vlr.gg/player/796/eeiu": {
+      "image": "https://owcdn.net/img/6984ecacc0ffe.png",
+      "source": "https://www.vlr.gg/player/796/eeiu"
+    },
+    "https://www.vlr.gg/player/18796/oxy": {
+      "image": "https://owcdn.net/img/679c2222b0181.png",
+      "source": "https://www.vlr.gg/player/18796/oxy"
+    },
+    "https://www.vlr.gg/player/2172/brawk": {
+      "image": "https://owcdn.net/img/697426e1f3308.png",
+      "source": "https://www.vlr.gg/player/2172/brawk"
+    },
+    "https://www.vlr.gg/player/15500/trent": {
+      "image": "https://owcdn.net/img/65e466071ca19.png",
+      "source": "https://www.vlr.gg/player/15500/trent"
+    },
+    "https://www.vlr.gg/player/20240/xenom": {
+      "image": "https://owcdn.net/img/65a6bddfe2c3a.png",
+      "source": "https://www.vlr.gg/player/20240/xenom"
+    },
+    "https://www.vlr.gg/player/21668/verno": {
+      "image": "https://owcdn.net/img/69742b3c25b7c.png",
+      "source": "https://www.vlr.gg/player/21668/verno"
+    },
+    "https://www.vlr.gg/player/28716/lukxo": {
+      "image": "https://owcdn.net/img/69e023fe3a5b8.png",
+      "source": "https://www.vlr.gg/player/28716/lukxo"
+    },
+    "https://www.vlr.gg/player/1265/johnqt": {
+      "image": "https://owcdn.net/img/69741441b9923.png",
+      "source": "https://www.vlr.gg/player/1265/johnqt"
+    },
+    "https://www.vlr.gg/player/21659/sato": {
+      "image": "https://owcdn.net/img/69234b72ce3db.png",
+      "source": "https://www.vlr.gg/player/21659/sato"
+    },
+    "https://www.vlr.gg/player/8549/kingg": {
+      "image": "https://owcdn.net/img/69234b213a609.png",
+      "source": "https://www.vlr.gg/player/8549/kingg"
+    },
+    "https://www.vlr.gg/player/8480/aspas": {
+      "image": "https://owcdn.net/img/6977f8cf0996f.png",
+      "source": "https://www.vlr.gg/player/8480/aspas"
+    },
+    "https://www.vlr.gg/player/29243/neon": {
+      "image": "https://owcdn.net/img/69234b3d0a58d.png",
+      "source": "https://www.vlr.gg/player/29243/neon"
+    },
+    "https://www.vlr.gg/player/11118/skuba": {
+      "image": "https://owcdn.net/img/6974067806f34.png",
+      "source": "https://www.vlr.gg/player/11118/skuba"
+    },
+    "https://www.vlr.gg/player/11494/keiko": {
+      "image": "https://owcdn.net/img/697406c5ecbcd.png",
+      "source": "https://www.vlr.gg/player/11494/keiko"
+    },
+    "https://www.vlr.gg/player/8673/heat": {
+      "image": "https://owcdn.net/img/6640398c585f8.png",
+      "source": "https://www.vlr.gg/player/8673/heat"
+    },
+    "https://www.vlr.gg/player/24007/shyy": {
+      "image": "https://owcdn.net/img/687bfb9a9e913.png",
+      "source": "https://www.vlr.gg/player/24007/shyy"
+    },
+    "https://www.vlr.gg/player/24553/boni": {
+      "image": null,
+      "source": "https://www.vlr.gg/player/24553/boni"
+    },
+    "https://www.vlr.gg/player/29242/erde": {
+      "image": null,
+      "source": "https://www.vlr.gg/player/29242/erde"
+    },
+    "https://www.vlr.gg/player/2170/babybay": {
+      "image": "https://owcdn.net/img/6224a67aabf26.png",
+      "source": "https://www.vlr.gg/player/2170/babybay"
+    },
+    "https://www.vlr.gg/player/7873/leaf": {
+      "image": "https://owcdn.net/img/6613103dd51a4.png",
+      "source": "https://www.vlr.gg/player/7873/leaf"
+    },
+    "https://www.vlr.gg/player/15681/palla": {
+      "image": "https://owcdn.net/img/697ab590e3a4d.png",
+      "source": "https://www.vlr.gg/player/15681/palla"
+    },
+    "https://www.vlr.gg/player/3880/bang": {
+      "image": "https://owcdn.net/img/69704e67e3e2b.png",
+      "source": "https://www.vlr.gg/player/3880/bang"
+    },
+    "https://www.vlr.gg/player/4147/cryocells": {
+      "image": "https://owcdn.net/img/69704e38872a4.png",
+      "source": "https://www.vlr.gg/player/4147/cryocells"
+    },
+    "https://www.vlr.gg/player/20140/vora": {
+      "image": "https://owcdn.net/img/69704e204d563.png",
+      "source": "https://www.vlr.gg/player/20140/vora"
+    },
+    "https://www.vlr.gg/player/3828/tacolilla": {
+      "image": "https://owcdn.net/img/65dc03ac2e2dd.png",
+      "source": "https://www.vlr.gg/player/3828/tacolilla"
+    },
+    "https://www.vlr.gg/player/4004/zekken": {
+      "image": "https://owcdn.net/img/69742b2cdd6c3.png",
+      "source": "https://www.vlr.gg/player/4004/zekken"
+    },
+    "https://www.vlr.gg/player/5395/cortezia": {
+      "image": "https://owcdn.net/img/69741432dd5e2.png",
+      "source": "https://www.vlr.gg/player/5395/cortezia"
+    },
+    "https://www.vlr.gg/player/8447/less": {
+      "image": "https://owcdn.net/img/69e64fe599b45.png",
+      "source": "https://www.vlr.gg/player/8447/less"
+    },
+    "https://www.vlr.gg/player/12872/david": {
+      "image": "https://owcdn.net/img/67abe1e07b7a0.png",
+      "source": "https://www.vlr.gg/player/12872/david"
+    },
+    "https://www.vlr.gg/player/44842/jackk": {
+      "image": null,
+      "source": "https://www.vlr.gg/player/44842/jackk"
+    },
+    "https://www.vlr.gg/player/939/mwzera": {
+      "image": "https://owcdn.net/img/69e6507319f13.png",
+      "source": "https://www.vlr.gg/player/939/mwzera"
+    },
+    "https://www.vlr.gg/player/8873/dgzin": {
+      "image": "https://owcdn.net/img/689e1886cc5ed.png",
+      "source": "https://www.vlr.gg/player/8873/dgzin"
+    },
+    "https://www.vlr.gg/player/29893/timotino": {
+      "image": "https://owcdn.net/img/69704e811ce7c.png",
+      "source": "https://www.vlr.gg/player/29893/timotino"
+    },
+    "https://www.vlr.gg/player/263/marved": {
+      "image": "https://owcdn.net/img/6207474eb81b1.png",
+      "source": "https://www.vlr.gg/player/263/marved"
+    },
+    "https://www.vlr.gg/player/11225/ethan": {
+      "image": "https://owcdn.net/img/6974068bad561.png",
+      "source": "https://www.vlr.gg/player/11225/ethan"
+    },
+    "https://www.vlr.gg/player/1129/rossy": {
+      "image": "https://owcdn.net/img/65cc6f07740b9.png",
+      "source": "https://www.vlr.gg/player/1129/rossy"
+    },
+    "https://www.vlr.gg/player/4828/nismo": {
+      "image": "https://owcdn.net/img/688c62bcd5f73.png",
+      "source": "https://www.vlr.gg/player/4828/nismo"
+    },
+    "https://www.vlr.gg/player/5132/mada": {
+      "image": "https://owcdn.net/img/697406cf6b086.png",
+      "source": "https://www.vlr.gg/player/5132/mada"
+    },
+    "https://www.vlr.gg/player/10885/davih": {
+      "image": "https://owcdn.net/img/69a8be6cb643d.png",
+      "source": "https://www.vlr.gg/player/10885/davih"
+    },
+    "https://www.vlr.gg/player/21251/blowz": {
+      "image": "https://owcdn.net/img/69234aef86f4b.png",
+      "source": "https://www.vlr.gg/player/21251/blowz"
+    },
+    "https://www.vlr.gg/player/37105/loss": {
+      "image": "https://owcdn.net/img/6979437f3f265.png",
+      "source": "https://www.vlr.gg/player/37105/loss"
+    },
+    "https://www.vlr.gg/player/3885/valyn": {
+      "image": "https://owcdn.net/img/65e4660ee20e5.png",
+      "source": "https://www.vlr.gg/player/3885/valyn"
+    },
+    "https://www.vlr.gg/player/8419/reduxx": {
+      "image": "https://owcdn.net/img/6974144d86cdb.png",
+      "source": "https://www.vlr.gg/player/8419/reduxx"
+    },
+    "https://www.vlr.gg/player/41798/nightz": {
+      "image": "https://owcdn.net/img/688c62c719cef.png",
+      "source": "https://www.vlr.gg/player/41798/nightz"
+    },
+    "https://www.vlr.gg/player/10053/fireballops": {
+      "image": "https://owcdn.net/img/630aea53bcd96.png",
+      "source": "https://www.vlr.gg/player/10053/fireballops"
+    },
+    "https://www.vlr.gg/player/14048/zerona": {
+      "image": "https://owcdn.net/img/697004f763e77.png",
+      "source": "https://www.vlr.gg/player/14048/zerona"
+    },
+    "https://www.vlr.gg/player/26171/demon1": {
+      "image": null,
+      "source": "https://www.vlr.gg/player/26171/demon1"
+    },
+    "https://www.vlr.gg/player/826/supamen": {
+      "image": "https://owcdn.net/img/67b5554423542.png",
+      "source": "https://www.vlr.gg/player/826/supamen"
+    },
+    "https://www.vlr.gg/player/7603/mazino": {
+      "image": "https://owcdn.net/img/69742ba0b7d17.png",
+      "source": "https://www.vlr.gg/player/7603/mazino"
+    },
+    "https://www.vlr.gg/player/34400/bao": {
+      "image": null,
+      "source": "https://www.vlr.gg/player/34400/bao"
+    },
+    "https://www.vlr.gg/player/2408/tuyz": {
+      "image": "https://owcdn.net/img/66306e474531d.png",
+      "source": "https://www.vlr.gg/player/2408/tuyz"
+    },
+    "https://www.vlr.gg/player/10557/darker": {
+      "image": "https://owcdn.net/img/69e02450abf75.png",
+      "source": "https://www.vlr.gg/player/10557/darker"
+    },
+    "https://www.vlr.gg/player/21661/spike": {
+      "image": "https://owcdn.net/img/69234b7d30781.png",
+      "source": "https://www.vlr.gg/player/21661/spike"
+    },
+    "https://www.vlr.gg/player/3455/zanatsu": {
+      "image": "https://owcdn.net/img/65e0a6b77f994.png",
+      "source": "https://www.vlr.gg/player/3455/zanatsu"
+    },
+    "https://www.vlr.gg/player/4581/jonahp": {
+      "image": "https://owcdn.net/img/65e4636c00e46.png",
+      "source": "https://www.vlr.gg/player/4581/jonahp"
+    },
+    "https://www.vlr.gg/player/8286/glyph": {
+      "image": "https://owcdn.net/img/697768b42430b.png",
+      "source": "https://www.vlr.gg/player/8286/glyph"
+    },
+    "https://www.vlr.gg/player/17433/v1c": {
+      "image": "https://owcdn.net/img/679c222ec2d14.png",
+      "source": "https://www.vlr.gg/player/17433/v1c"
+    },
+    "https://www.vlr.gg/player/17770/alvinboy": {
+      "image": null,
+      "source": "https://www.vlr.gg/player/17770/alvinboy"
+    },
+    "https://www.vlr.gg/player/5957/artzin": {
+      "image": "https://owcdn.net/img/6984ec87c63c1.png",
+      "source": "https://www.vlr.gg/player/5957/artzin"
+    },
+    "https://www.vlr.gg/player/41224/tkzin": {
+      "image": "https://owcdn.net/img/69e655026b8a8.png",
+      "source": "https://www.vlr.gg/player/41224/tkzin"
+    },
+    "https://www.vlr.gg/player/8422/spaz": {
+      "image": null,
+      "source": "https://www.vlr.gg/player/8422/spaz"
+    },
+    "https://www.vlr.gg/player/1818/tex": {
+      "image": "https://owcdn.net/img/69742b4f94c53.png",
+      "source": "https://www.vlr.gg/player/1818/tex"
+    },
+    "https://www.vlr.gg/player/3993/jawgemo": {
+      "image": "https://owcdn.net/img/64169400bfed7.png",
+      "source": "https://www.vlr.gg/player/3993/jawgemo"
+    },
+    "https://www.vlr.gg/player/14950/gobera": {
+      "image": "https://owcdn.net/img/68d75f956511a.png",
+      "source": "https://www.vlr.gg/player/14950/gobera"
+    },
+    "https://www.vlr.gg/player/2164/paincakes": {
+      "image": "https://owcdn.net/img/697005236be2a.png",
+      "source": "https://www.vlr.gg/player/2164/paincakes"
+    },
+    "https://www.vlr.gg/player/34057/jerrwin": {
+      "image": null,
+      "source": "https://www.vlr.gg/player/34057/jerrwin"
+    },
+    "https://www.vlr.gg/player/651/frz": {
+      "image": "https://owcdn.net/img/697a76da98484.png",
+      "source": "https://www.vlr.gg/player/651/frz"
+    },
+    "https://www.vlr.gg/player/1575/qck": {
+      "image": "https://owcdn.net/img/697a76ff5ff78.png",
+      "source": "https://www.vlr.gg/player/1575/qck"
+    },
+    "https://www.vlr.gg/player/33570/chubizin": {
+      "image": "https://owcdn.net/img/696e953456939.png",
+      "source": "https://www.vlr.gg/player/33570/chubizin"
+    },
+    "https://www.vlr.gg/player/727/saadhak": {
+      "image": "https://owcdn.net/img/69e6509789324.png",
+      "source": "https://www.vlr.gg/player/727/saadhak"
+    },
+    "https://www.vlr.gg/player/3722/koalanoob": {
+      "image": "https://owcdn.net/img/6984ecbcc0f22.png",
+      "source": "https://www.vlr.gg/player/3722/koalanoob"
+    },
+    "https://www.vlr.gg/player/619/c0m": {
+      "image": "https://owcdn.net/img/641693c3a0312.png",
+      "source": "https://www.vlr.gg/player/619/c0m"
+    },
+    "https://www.vlr.gg/player/729/zellsis": {
+      "image": "https://owcdn.net/img/671b20fca8019.png",
+      "source": "https://www.vlr.gg/player/729/zellsis"
+    },
+    "https://www.vlr.gg/player/1311/melser": {
+      "image": "https://owcdn.net/img/687bf97be0429.png",
+      "source": "https://www.vlr.gg/player/1311/melser"
+    },
+    "https://www.vlr.gg/player/27149/brinks": {
+      "image": "https://owcdn.net/img/6aeec57ceb1cd.png",
+      "source": "https://www.vlr.gg/player/27149/brinks"
+    },
+    "https://www.vlr.gg/player/2462/keznit": {
+      "image": "https://owcdn.net/img/687bfb08ac062.png",
+      "source": "https://www.vlr.gg/player/2462/keznit"
+    },
+    "https://www.vlr.gg/player/41135/dantedeu5": {
+      "image": "https://owcdn.net/img/69e64fdcabd75.png",
+      "source": "https://www.vlr.gg/player/41135/dantedeu5"
+    },
+    "https://www.vlr.gg/player/13093/jzz": {
+      "image": "https://owcdn.net/img/6856183f4d380.png",
+      "source": "https://www.vlr.gg/player/13093/jzz"
+    },
+    "https://www.vlr.gg/player/30470/kyu": {
+      "image": "https://owcdn.net/img/688c62cf8c6b1.png",
+      "source": "https://www.vlr.gg/player/30470/kyu"
+    },
+    "https://www.vlr.gg/player/8872/mazin": {
+      "image": "https://owcdn.net/img/65a4933f9b56c.png",
+      "source": "https://www.vlr.gg/player/8872/mazin"
+    }
+  },
+  "teams": {
+    "NRG": {
+      "image": "https://owcdn.net/img/6610f026c1a9e.png",
+      "source": "https://www.vlr.gg/team/1034/nrg"
+    },
+    "LEVIATÁN": {
+      "image": "https://owcdn.net/img/61b8888cc3860.png",
+      "source": "https://www.vlr.gg/team/2359/leviat-n"
+    },
+    "100 Thieves": {
+      "image": "https://owcdn.net/img/603c00d5c5a08.png",
+      "source": "https://www.vlr.gg/team/120/100-thieves"
+    },
+    "LOUD": {
+      "image": "https://owcdn.net/img/62bbec8dc1b9f.png",
+      "source": "https://www.vlr.gg/team/6961/loud"
+    },
+    "MIBR": {
+      "image": "https://owcdn.net/img/632be7626d6d9.png",
+      "source": "https://www.vlr.gg/team/7386/mibr"
+    },
+    "FURIA": {
+      "image": "https://owcdn.net/img/632be843b7d51.png",
+      "source": "https://www.vlr.gg/team/2406/furia"
+    },
+    "G2 Esports": {
+      "image": "https://owcdn.net/img/633822848a741.png",
+      "source": "https://www.vlr.gg/team/11058/g2-esports"
+    },
+    "Evil Geniuses": {
+      "image": "https://owcdn.net/img/667462f046618.png",
+      "source": "https://www.vlr.gg/team/5248/evil-geniuses"
+    },
+    "Cloud9": {
+      "image": "https://owcdn.net/img/628addcbd509e.png",
+      "source": "https://www.vlr.gg/team/188/cloud9"
+    },
+    "KRÜ Esports": {
+      "image": "https://owcdn.net/img/63976677069e1.png",
+      "source": "https://www.vlr.gg/team/2355/kr-esports"
+    },
+    "Sentinels": {
+      "image": "https://owcdn.net/img/62875027c8e06.png",
+      "source": "https://www.vlr.gg/team/2/sentinels"
+    },
+    "ENVY": {
+      "image": "https://owcdn.net/img/5f3ca822464a3.png",
+      "source": "https://www.vlr.gg/team/427/envy"
+    },
+    "Fluxo W7M": {
+      "image": "https://owcdn.net/img/6a76a37807aad.png",
+      "source": "https://www.vlr.gg/team/23141/fluxo-w7m"
+    },
+    "BESTIA": {
+      "image": "https://owcdn.net/img/69ea66a9d008c.png",
+      "source": "https://www.vlr.gg/team/22142/bestia"
+    },
+    "M80": {
+      "image": "https://owcdn.net/img/6945c73504452.png",
+      "source": "https://www.vlr.gg/team/11001/m80"
+    },
+    "2Game Esports": {
+      "image": "https://owcdn.net/img/67725c368d524.png",
+      "source": "https://www.vlr.gg/team/15072/2game-esports"
+    },
+    "100T": {
+      "image": "https://owcdn.net/img/603c00d5c5a08.png",
+      "source": "https://www.vlr.gg/team/120/100-thieves"
+    },
+    "2G": {
+      "image": "https://owcdn.net/img/67725c368d524.png",
+      "source": "https://www.vlr.gg/team/15072/2game-esports"
+    },
+    "BST": {
+      "image": "https://owcdn.net/img/69ea66a9d008c.png",
+      "source": "https://www.vlr.gg/team/22142/bestia"
+    },
+    "C9": {
+      "image": "https://owcdn.net/img/628addcbd509e.png",
+      "source": "https://www.vlr.gg/team/188/cloud9"
+    },
+    "EG": {
+      "image": "https://owcdn.net/img/667462f046618.png",
+      "source": "https://www.vlr.gg/team/5248/evil-geniuses"
+    },
+    "FUR": {
+      "image": "https://owcdn.net/img/632be843b7d51.png",
+      "source": "https://www.vlr.gg/team/2406/furia"
+    },
+    "FX": {
+      "image": "https://owcdn.net/img/6a76a37807aad.png",
+      "source": "https://www.vlr.gg/team/23141/fluxo-w7m"
+    },
+    "G2": {
+      "image": "https://owcdn.net/img/633822848a741.png",
+      "source": "https://www.vlr.gg/team/11058/g2-esports"
+    },
+    "KRÜ": {
+      "image": "https://owcdn.net/img/63976677069e1.png",
+      "source": "https://www.vlr.gg/team/2355/kr-esports"
+    },
+    "LEV": {
+      "image": "https://owcdn.net/img/61b8888cc3860.png",
+      "source": "https://www.vlr.gg/team/2359/leviat-n"
+    },
+    "SEN": {
+      "image": "https://owcdn.net/img/62875027c8e06.png",
+      "source": "https://www.vlr.gg/team/2/sentinels"
+    }
+  }
+}
