@@ -1,0 +1,24 @@
+const {chromium}=require('playwright');
+const assert=require('node:assert/strict');
+(async()=>{
+ const browser=await chromium.launch({headless:true,executablePath:process.env.CHROMIUM_PATH||'/usr/bin/chromium',args:['--no-sandbox']});
+ const page=await browser.newPage({viewport:{width:1440,height:1000}});const errors=[];
+ page.on('pageerror',e=>errors.push(e.message));
+ await page.goto(process.env.TEST_URL||'http://localhost:8000');
+ await page.waitForSelector('#players-body tr');
+ assert.equal(await page.locator('#series').textContent(),'60');
+ await page.selectOption('#min-maps','1');assert.equal(await page.locator('#players-body tr').count(),82);
+ await page.fill('#player-search','aspas');assert.equal(await page.locator('#players-body tr').count(),1);assert.match(await page.locator('#players-body').textContent(),/aspas/);
+ const download=page.waitForEvent('download');await page.click('#export-players');assert.equal((await download).suggestedFilename(),'valorant-jogadores-recorte.csv');
+ await page.selectOption('#player-team','100T');assert.match(await page.locator('#players-body').textContent(),/Nenhum jogador/);
+ await page.click('#reset-players');await page.selectOption('#player-sort','acs');assert.match(await page.locator('#players-body tr').first().textContent(),/OXY/);
+ const a=await page.inputValue('#compare-a');await page.selectOption('#compare-b',a);assert.match(await page.locator('#comparison').textContent(),/mesmo jogador/);
+ await page.selectOption('#team','LOUD');assert.notEqual(await page.locator('#series').textContent(),'60');
+ await page.click('#reset');assert.equal(await page.locator('#series').textContent(),'60');
+ await page.screenshot({path:'/tmp/valorant-desktop.png',fullPage:true});
+ await page.setViewportSize({width:390,height:844});await page.goto(process.env.TEST_URL||'http://localhost:8000');
+ assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true);
+ await page.screenshot({path:'/tmp/valorant-mobile.png',fullPage:true});
+ assert.deepEqual(errors,[]);console.log('PASS: 82 players, filters, empty state, sorting, comparison, CSV, legacy team analytics, mobile width, no JS errors');
+ await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});
